@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(90deg, #FF16E5, #7512E0, #2036F7, #129BE0, #14F8C1);
+}
+
+h1 {
+    font-style: oblique;
+    font-family: cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr {
+    box-shadow: inset, cornflowerblue
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
